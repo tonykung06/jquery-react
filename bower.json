@@ -1,0 +1,21 @@
+{
+  "name": "jquery-react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "tonykung <tonykung06@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar": "^2.6.1"
+  }
+}
